@@ -21,3 +21,8 @@ createInertiaApp({
         color: '#4B5563',
     },
 });
+
+// import { Header } from './Site/Layouts/Header.vue';
+// app.component('header-component', Header);
+
+// app.mount('#app');
